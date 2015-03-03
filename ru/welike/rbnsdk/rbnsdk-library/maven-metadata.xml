@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ru.welike.rbnsdk</groupId>
+  <artifactId>rbnsdk-library</artifactId>
+  <versioning>
+    <versions>
+      <version>0.8-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150303133107</lastUpdated>
+  </versioning>
+</metadata>
